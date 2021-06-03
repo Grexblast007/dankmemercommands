@@ -1,0 +1,9 @@
+custom_commands:
+  - value: "pls command1"
+    interval: 60
+  - value: "pls command2"
+    interval: 300
+    amount: 5
+  - value: "pls command3"
+  - value: "pls buy zz 20"
+    pause_below_balance: 9000000
